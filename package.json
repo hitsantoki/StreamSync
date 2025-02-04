@@ -1,0 +1,16 @@
+{
+  "name": "streamsync_backend",
+  "version": "1.0.0",
+  "description": "backend of StreamSync",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Hit Santoki",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
